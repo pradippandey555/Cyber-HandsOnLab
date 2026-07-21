@@ -1,3 +1,9 @@
 # Module 09 - VMware Lab
 
-Deploy local web app in VM, harden configs, and re-validate baseline.
+## Commands
+```bash
+sudo nginx -t
+curl -I http://<local-site>
+```
+**Expected Output:**
+- Valid config test and updated response headers.

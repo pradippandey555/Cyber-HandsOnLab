@@ -1,3 +1,10 @@
 # Module 10 - VMware Lab
 
-Run endpoint detection scenarios in local VMs and practice isolation/recovery workflow.
+## Commands
+```bash
+ps aux
+netstat -tulpn
+sha256sum <sample>
+```
+**Expected Output:**
+- Process/network visibility and hash evidence.

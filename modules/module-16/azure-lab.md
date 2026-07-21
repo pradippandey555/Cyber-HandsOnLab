@@ -1,3 +1,8 @@
 # Module 16 - Azure Lab
 
-Build a portfolio package from Azure-track outputs and rehearse stakeholder briefings.
+## Steps
+- Compile Azure-based portfolio artifacts.
+- Practice executive incident briefing.
+
+**Expected Output:**
+- Portfolio pack and presentation notes.

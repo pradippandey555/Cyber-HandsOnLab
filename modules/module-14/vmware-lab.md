@@ -1,3 +1,8 @@
 # Module 14 - VMware Lab
 
-Use local SIEM/EDR simulation to test IOC and TTP-based detection updates.
+## Steps
+- Ingest IOC list into local detection stack.
+- Test detections with controlled samples.
+
+**Expected Output:**
+- Triggered alerts linked to intel references.

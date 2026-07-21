@@ -1,3 +1,12 @@
 # Module 09 - Azure Lab
 
-Secure Azure-hosted web workload with TLS, security headers, and controlled validation checks.
+## Commands
+```bash
+curl -I https://<site>
+```
+**Expected Output:**
+- HTTP headers including security headers and TLS response details.
+
+## Troubleshooting
+- **Issue:** Missing security headers  
+  **Fix:** Update web server/app gateway config and retest.

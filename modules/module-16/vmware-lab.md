@@ -1,3 +1,8 @@
 # Module 16 - VMware Lab
 
-Build portfolio package from local lab outputs and mock interview responses.
+## Steps
+- Compile VMware-based lab outputs.
+- Complete mock interview and 90-day plan.
+
+**Expected Output:**
+- Job-readiness bundle with evidence index.

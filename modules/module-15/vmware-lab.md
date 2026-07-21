@@ -1,3 +1,8 @@
 # Module 15 - VMware Lab
 
-Run capstone scenario using local VM logs, endpoint events, and network evidence.
+## Steps
+- Correlate endpoint/network/auth artifacts.
+- Build minute-by-minute timeline.
+
+**Expected Output:**
+- Defensible root-cause narrative and recovery plan.

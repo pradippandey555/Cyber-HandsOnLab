@@ -1,3 +1,8 @@
 # Module 07 - VMware Lab
 
-Use local SIEM stack in VMs to normalize logs and triage test alerts.
+## Steps
+- Ingest auth, endpoint, and network logs.
+- Build alert rule for repeated failed logins.
+
+**Expected Output:**
+- Alert generated and triage notes recorded.

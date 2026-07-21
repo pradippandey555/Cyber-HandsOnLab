@@ -1,6 +1,19 @@
 # Module 03 - Azure Lab
 
-1. Identify approved Azure targets.
-2. Perform host discovery and service enumeration in scope.
-3. Run vulnerability scanner in safe mode.
-4. Validate high-severity findings manually.
+## Tools
+- nmap
+- vulnerability scanner
+- Azure CLI
+
+## Commands
+```bash
+nmap -sn <subnet-cidr>
+nmap -sV -O <target-ip>
+```
+**Expected Output:**
+- Live hosts from ping sweep
+- Service versions and OS guesses
+
+## Troubleshooting
+- **Issue:** OS detection inaccurate  
+  **Fix:** Use service fingerprinting and manual validation.

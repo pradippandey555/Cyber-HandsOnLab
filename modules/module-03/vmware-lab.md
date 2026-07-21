@@ -1,6 +1,14 @@
 # Module 03 - VMware Lab
 
-1. Discover hosts in isolated subnet.
-2. Enumerate ports/services.
-3. Scan with approved vulnerability tool.
-4. Validate false positives.
+## Commands
+```bash
+nmap -sn 192.168.56.0/24
+nmap -sV 192.168.56.10
+```
+
+**Expected Output:**
+- Reachable hosts and open ports.
+
+## Troubleshooting
+- **Issue:** All ports filtered  
+  **Fix:** Check VM firewall settings and network adapter mode.
